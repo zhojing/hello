@@ -1,2 +1,2 @@
-# hello
-周婧的仓库
+var staticHtmlPrefix = appPrefix + "static/html/";
+  var activityHtmlPrefix = appPrefix + "activity/html/";
